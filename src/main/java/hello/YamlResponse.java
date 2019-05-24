@@ -12,6 +12,11 @@ public class YamlResponse {
         this.xmlContent = xmlContent;
     }
 
+    /**
+     * Метод преобразовывает xml в yaml
+     * @return
+     */
+
     public String getYamlContent() {
         try {
             XmlMapper xmlMapper = new XmlMapper();
