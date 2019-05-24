@@ -1,4 +1,4 @@
-XMLtoYAML
+XMLtoYAML\n
 Демонстрация работы
 Пример запроса
 {"<note>\n
